@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624798539509",
+    "project_id": "ingazi2026",
+    "storage_bucket": "ingazi2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624798539509:android:62243ca1424a32e28b6fbc",
+        "android_client_info": {
+          "package_name": "com.example.ingazi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXWar7LTof6_DQZ0pDqK1S9Oqv4SMpV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
