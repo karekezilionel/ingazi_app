@@ -76,6 +76,7 @@ flutter run
 ```
 
 
+```text
 lib/
 ├── core/
 │   ├── constants/       # App constants
@@ -90,7 +91,7 @@ lib/
 └── presentation/
     ├── screens/         # All UI screens
     └── widgets/         # Screen-specific widgets
-
+```
 ```
     ### DEMO CREDENTIALS for the Admin
     
