@@ -59,10 +59,10 @@ Ingazi is a mobile application that connects ALU students seeking internship exp
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ingazi.git
+git clone https://github.com/karekezilionel/ingazi_app.git
 
 # 2. Navigate to project
-cd ingazi
+cd ingazi_app
 
 # 3. Get dependencies
 flutter pub get
